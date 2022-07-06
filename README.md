@@ -1,4 +1,4 @@
-# file-notes README
+# cataRemark README
 
 这是一个给文件及文件夹设置备注的插件,生成的有对应的目录菜单，方便查看备注
 
