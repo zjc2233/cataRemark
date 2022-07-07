@@ -3,8 +3,16 @@
   "displayName": "cataRemark",
   "description": "目录备注",
   "version": "0.0.1",
-  "author": "zhao_juchang",
-	"publisher": "zhao_juchang",
+  "author": "zjc2233",
+	"publisher": "zjc2233",
+  "icon": "cataRemarkLogo.png",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/zjc2233/cataRemark.git"
+	},
+  "bugs": {
+		"url": "https://github.com/zjc2233/cataRemark/issues"
+	},
   "keywords": [
     "catareamrk",
     "catalogue",
