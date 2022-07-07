@@ -200,7 +200,7 @@ export class treeList implements treeListInterface {
     // 写入备注信息
     setReamrk(url: string, val: string, tree: Array<treeItemInterface>): void {
         let settingJsonPath = (vscode.workspace.workspaceFolders || [])[0]?.uri
-            .fsPath;
+            .fsPath.replace(/\\/g, "/")
         this.cataNotesUrl = path.join(settingJsonPath, ".vscode");
         let urlArr: Array<string> = url.split('/');
         urlArr.forEach((urlItem: string, urlIndex: number) => {
