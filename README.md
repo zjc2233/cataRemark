@@ -6,11 +6,11 @@
 
 给文件及文件夹设置备注，显示在 title 当中，备注数据存储在.vscode/cata-notes.json中
 1.设置文件备注
-![](https://github.com/zjc2233/cataRemark/tree/main/media/images/setting.png)
+![setting](setting.png)
 2.鼠标悬停查看文件备注
-![](https://github.com/zjc2233/cataRemark/tree/main/media/images/remark.jpg)
+![remark](remark.jpg)
 3.目录树查看备注，点击展开文件夹和打开文件，工作区正常
-![](https://github.com/zjc2233/cataRemark/tree/main/media/images/tree.png)
+![tree](tree.png)
 
 ## Extension Settings
 
